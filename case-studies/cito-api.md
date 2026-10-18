@@ -18,9 +18,9 @@ Cito API is a sports and esports data subscription service for developers. As co
 | Content & operations | Help manage blog content, advertising, customer support, and business records. |
 | Product quality | Test UFC, tennis, and esports API data and investigate discrepancies before delivery to customers. |
 
-## Business outcome
+## Developing Cito API
 
-Monthly subscription revenue grew from **$335 in June 2026** to **$2,200 in September 2026**. This is a shared business outcome; it does not isolate the effect of any individual campaign or my work alone.
+I help develop Cito API by building and testing landing pages, using customer feedback to inform improvements, and validating sports and esports data. My work connects product development with a clear and reliable customer experience.
 
 ## Why this belongs in my marketing portfolio
 

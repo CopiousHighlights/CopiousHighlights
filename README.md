@@ -52,7 +52,7 @@ My focus is longer YouTube videos for **CopiousMMA** and monetized TikTok conten
 - Help manage blog content, advertising, customer support, and business records.
 - Test and validate UFC, tennis, and esports API data; investigate discrepancies before customers use it.
 
-The business grew monthly subscription revenue from **$335 in June 2026 to $2,200 in September 2026**. This is a shared business result rather than an isolated measure of marketing impact.
+I help develop Cito API by building and testing landing pages, improving the customer experience, and validating sports and esports data.
 
 [Visit Cito API →](https://citoapi.com/) · [Read the business case study →](case-studies/cito-api.md)
 
