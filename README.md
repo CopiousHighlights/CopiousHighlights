@@ -31,8 +31,11 @@ Since **May 2021**, I've researched sports topics, managed publishing, and used 
 
 | Brand | Social channels |
 | :--- | :--- |
-| **CopiousMMA** | [YouTube](https://www.youtube.com/@copiousmma) · [Instagram](https://www.instagram.com/copiousmma/) · [TikTok](https://www.tiktok.com/@copiousmma) |
-| **CopiousHighlights** | [Instagram](https://www.instagram.com/copioushighlights/) |
+| **CopiousMMA** | [YouTube](https://www.youtube.com/@copiousmma) · [TikTok](https://www.tiktok.com/@copiousmma) |
+| **CopiousHighlights** | [TikTok](https://www.tiktok.com/@copioushighlights) · [Instagram](https://www.instagram.com/copioushighlights/) |
+| **CopiousScraps** | [Instagram](https://www.instagram.com/copiousscraps/) |
+
+My focus is longer YouTube videos for **CopiousMMA** and monetized TikTok content over one minute for **CopiousHighlights**.
 
 **What I bring:** topic research, content publishing, audience awareness, performance analysis, and an understanding of sports communities.
 

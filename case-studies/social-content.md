@@ -19,8 +19,13 @@ My responsibilities include researching topics, managing publishing, and using p
 
 ## Explore the accounts
 
-- **CopiousMMA:** [YouTube](https://www.youtube.com/@copiousmma) · [Instagram](https://www.instagram.com/copiousmma/) · [TikTok](https://www.tiktok.com/@copiousmma)
-- **CopiousHighlights:** [Instagram](https://www.instagram.com/copioushighlights/)
+- **CopiousMMA:** [YouTube](https://www.youtube.com/@copiousmma) · [TikTok](https://www.tiktok.com/@copiousmma)
+- **CopiousHighlights:** [TikTok](https://www.tiktok.com/@copioushighlights) · [Instagram](https://www.instagram.com/copioushighlights/)
+- **CopiousScraps:** [Instagram](https://www.instagram.com/copiousscraps/)
+
+## Platform focus
+
+For **CopiousMMA**, I focus on growing a YouTube presence through longer videos. For **CopiousHighlights**, I focus on short-form TikTok content over one minute, where the account is monetized.
 
 ## Skills this demonstrates
 
