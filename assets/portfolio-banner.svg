@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Trevor Coit. Marketing, sports and analytics. Content that connects. Data that informs.">
+<rect width="1200" height="310" rx="18" fill="#252936"/>
+<path d="M880 0H1200V310H1040Z" fill="#303447"/>
+<path d="M1030 0H1200V310H1165Z" fill="#3d3b58"/>
+<rect x="58" y="51" width="45" height="5" rx="2" fill="#b8a8fa"/>
+<text x="58" y="126" font-family="Arial,sans-serif" font-size="56" font-weight="700" fill="#ffffff">Trevor Coit</text>
+<text x="60" y="176" font-family="Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="2" fill="#c9bdfa">MARKETING · SPORTS · ANALYTICS</text>
+<text x="60" y="235" font-family="Arial,sans-serif" font-size="23" fill="#e2e4ee">Content that connects. Data that informs.</text>
+<circle cx="1040" cy="155" r="63" fill="none" stroke="#b8a8fa" stroke-width="2" opacity=".7"/>
+<path d="M1004 177V158M1028 177V140M1052 177V122M1076 177V103" stroke="#c9bdfa" stroke-width="10"/>
+</svg>
