@@ -1,8 +1,8 @@
 # Cito API: marketing, customer insight & product quality
 
-**Trevor Coit · Co-owner, CITO Media LLC · June 2026–present**
+**Trevor Coit · Business & Marketing Analyst and Co-Owner, CITO Media LLC · June 2026–present**
 
-[Back to my portfolio](../README.md) · [Visit Cito API](https://citoapi.com/)
+[Back to my portfolio](../README.md) · [Visit Cito API](https://citoapi.com/) · [Visit Cito.gg](https://cito.gg/)
 
 ## The business
 
@@ -15,6 +15,9 @@ Cito API is a sports and esports data subscription service for developers. As co
 | Customer & market research | Use competitor research and customer feedback to inform product and marketing decisions. |
 | Marketing measurement | Use Google Analytics to understand activity and inform decisions. |
 | Landing pages & discovery | Build and test landing pages with Claude Code; apply SEO strategies and use exact-match domains to promote the service. |
+| Website development | Develop websites and landing pages, connecting product information with a usable customer experience. |
+| Cold outreach | Email prospective customers and use direct messaging across apps and websites to introduce the service. |
+| Promotional campaigns | Create promotional ads and campaign concepts, informed by competitor research and customer feedback. |
 | Content & operations | Help manage blog content, advertising, customer support, and business records. |
 | Product quality | Test UFC, tennis, and esports API data and investigate discrepancies before delivery to customers. |
 
@@ -25,3 +28,8 @@ I help develop Cito API by building and testing landing pages, using customer fe
 ## Why this belongs in my marketing portfolio
 
 Running a subscription business connects customer needs with the message, landing page, and product experience. My work gives me experience balancing promotion with clear customer communication and reliable data.
+
+## Explore the products
+
+- [Cito API](https://citoapi.com/): the developer-facing sports and esports data service.
+- [Cito.gg](https://cito.gg/): a consumer-facing sports and esports website with match information, scores, and rankings.
